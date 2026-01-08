@@ -2,9 +2,9 @@
 
 ### Hello there 👋, My name is Tim Yang!~
 ___
-I am a student in my 4B year of Financial Analysis and Risk Management @ UWaterloo. I like coding as a side hobby, and have some experiences coding in a professional setting with teams. Currently working on a few projects with my friends, as well as some side projects of my own. Feel free to reach out to me if you wanna get to know each other more! Any job offers would be welcome as well! Keep reading to know more about me...
+I like coding as a side hobby, and have some experiences coding in a professional setting with teams. Currently working on a few projects with my friends, as well as some side projects of my own. Feel free to reach out to me if you wanna get to know each other more! Any job offers would be welcome as well! Keep reading to know more about me...
 ___
-- 🔭 I'm currently working on **CuraML**.
+- 🔭 I'm currently working on **Project Unmei**.
 - 💬 Ask me about hobbies or help in code, either is welcomed!
 - ⚡ Fun fact: I really like Bash Scripting for some reason that even I don't understand...
 ___
