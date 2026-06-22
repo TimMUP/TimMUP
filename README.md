@@ -2,7 +2,7 @@
 
 ### Hello there 👋, My name is Tim Yang!~
 ___
-I like coding as a side hobby, and have some experiences coding in a professional setting with teams. Currently working on a few projects with my friends, as well as some side projects of my own. Feel free to reach out to me if you wanna get to know each other more! Any job offers would be welcome as well! Keep reading to know more about me...
+Currently working on a few projects. Feel free to reach out to me if you wanna get to know each other more!
 ___
 - 🔭 I'm currently working on **Project Unmei**.
 - 💬 Ask me about hobbies or help in code, either is welcomed!
